@@ -6,5 +6,7 @@
 - 🧙‍♂️ magic Grid.🗝️
 - 🧙‍♂️ magic Flexbox.🗝️
 
+https://github.com/Nazar-Pichak/GridCompilation/assets/103797791/a7bb4ff9-a3d3-4b67-8d00-3859f0d2a999
+
 
 - 💫💫💫
