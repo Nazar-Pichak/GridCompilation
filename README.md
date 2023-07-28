@@ -6,7 +6,5 @@
 - 🧙‍♂️ magic Grid.🗝️
 - 🧙‍♂️ magic Flexbox.🗝️
 
-<video src="grid-html/20230326_063030.mp4" controls title="Title"></video>
-
 
 - 💫💫💫
